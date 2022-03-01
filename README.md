@@ -23,3 +23,16 @@ This project analyzes the needs of Next Level, a startup accelerator that is see
 BUSINESS PROBLEM
 
 Next Level is a small fictional startup accelerator that is low on capital, currently they have 100k USD to invest in interesting startups. Because of their limited funds, they are looking for a way to better filter companies in the hopes of making the most of their investments. They are aware of the following statistics: 75% of venture-backed startups fail. Under 50% of businesses make it to their fifth year. 33% of startups make it to the 10-year mark. Only 40% of startups actually turn a profit. Given this knowledge, Next Level is targeting startups that they believe have the best opportunity at receiving funding from VC, a sure-fire way for investment profits. For this purpose, they have hired me to create a model classify whether or not a startup will be funded by a VC.
+
+
+APPROACH 
+
+EDA
+I have done a data cleaning process on both sets of data. Please see my repository on EDA for further details.
+https://github.com/DavidGuix/Startup-Funding-EDA/
+
+PROJECT ASSUMPTIONS
+Based on my knowledge on the topic and the goal of the project (predict the future success of getting VC funding of startups), I focus on predicting the ‘venture’ column as my target.
+
+SHARKS AND DRAGONS
+I believe the addition of this data is relevant to this project. At the end of the day these 2 TV shows represent exactly the problem I would like to solve: will a startup get a deal when they face a group of investors???
